@@ -41,7 +41,7 @@ was then followed by canny edge detection method for identifying the
 edges of the numbers and symbols and then finally plotting contours.
 All these were applied using python openCV library functions.
 
-**4. Improvements**
+## Improvements
 The algorithm used in this project is a basic algorithm for calculating simple 
 the value of simple equations. It can be further modified to solve for derivative and 
 integration problems.

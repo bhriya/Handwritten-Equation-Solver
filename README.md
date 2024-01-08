@@ -15,6 +15,7 @@ The 333,895 images were divided in a 1:4 ratio between validation and
 training set. These images were loaded at a target size of (40,40) and in
 grayscale mode. These images were also rescaled by a factor of 1./255 so
 that pixel values are not too high for the model to process.
+
 **2. The Architecture**
 The architecture of our neural network contains four learned layers, two
 convolutional and two fully connected. The activation function we used for
